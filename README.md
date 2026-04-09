@@ -140,21 +140,5 @@ Result / Evaluation
 
 ## 🏆 Conclusion
 
-This simulator provides a **safe, interactive, and intelligent learning platform** for dental students by combining practical simulation with AI-based evaluation and theoretical assessment.
+This simulator provides a safe, interactive, and intelligent learning platform** for dental students by combining practical simulation with AI-based evaluation and theoretical assessment.
 
----
-
-## 📌 Future Enhancements
-
-* More dental procedures
-* Advanced AI (ML-based evaluation)
-* Multiplayer training mode
-* VR integration
-
----
-
-## 👨‍💻 Author
-
-* Lalith
-
----
